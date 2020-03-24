@@ -1,0 +1,8 @@
+{
+  "appId": "com.radarcoronairus.app",
+  "appName": "Radar do Coronavírus",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

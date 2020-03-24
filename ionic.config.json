@@ -1,5 +1,7 @@
 {
-  "name": "radarcoronavirus",
-  "integrations": {},
+  "name": "Radar do Coronavírus",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
