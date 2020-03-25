@@ -25,6 +25,7 @@ const Tab1: React.FC = () => {
           <Stats url='https://covid19.mathdro.id/api' />
           <CountrySelector />
         </div>
+        <p className='align'>Desenvolvido por tiagolc@live.com</p>
       </IonContent>
     </IonPage>
   );

@@ -1,4 +1,4 @@
-package com.radarcoronairus.app;
+package com.radardocoronavirus.app;
 
 import android.os.Bundle;
 

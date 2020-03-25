@@ -1,5 +1,5 @@
 {
-  "appId": "com.radarcoronairus.app",
+  "appId": "com.radardocoronairus.app",
   "appName": "Radar do Coronavírus",
   "bundledWebRuntime": false,
   "npmClient": "npm",
